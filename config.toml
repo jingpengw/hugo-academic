@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "jingpeng@princeton.edu"
   address = "192G Princeton Neuroscience Institute, Princeton University, NJ, 98544, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+#office_hours = "email for appointment"
   phone = "609 216 4179"
   skype = "jingpeng-wu"
   telegram = ""
