@@ -1,52 +1,81 @@
-# Academic Kickstart
+<!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
-**Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
+[中文](https://wowchemy.com/zh/)
 
-**Academic Kickstart** provides a minimal template to kickstart your new website by following the simple steps below.
+# [Wowchemy](https://wowchemy.com): the website builder for [Hugo](https://gohugo.io)
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+### Join 500,000+ Sites. Easily Create Future-Proof Websites ✏️ 📰 🚀
 
-## Getting Started
+🔥 **1. Create _any_ kind of website for free with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs
 
-The following two methods describe how to install in the cloud using your web browser and how to install on your PC using the Command Prompt/Terminal app.
+🎨 **2. Personalize** a beautiful starter template with **50+ light/dark color themes, language packs, and widgets**
 
-### Quick install using your web browser
+🛋 **3. Write from your sofa or on the go with the integrated open source Content Management System (CMS)**
 
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
-2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
-3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
+[Check out the latest **demos**](https://wowchemy.com/templates/) of what you'll get in less than 10 minutes, or [get **inspired**](https://wowchemy.com/user-stories/) by user stories.
 
-### Install on your PC
+- 👉 [**Get Started**](https://wowchemy.com/templates/)
+- 📚 [View the **documentation**](https://wowchemy.com/docs/)
+- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&src=typed_query)
+- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
+- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
 
-Prerequisites:
+## Crowd-funded open-source software
 
-* [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
+To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-1. Clone (or [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) or [download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip)) the *Academic Kickstart* repository with Git: 
+### [❤️ Unlock rewards by supporting this open source software ❤️](https://wowchemy.com/plans/)
 
-       git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork.*
+## Ecosystem
 
-2. Initialize the theme:
+- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/):** Automatically import academic publications from BibTeX
+- **[Hugo Assistant](https://github.com/sourcethemes/hugo-assistant):** Scripts to help migrate content to new versions of Hugo
 
-       cd My_Website
-       git submodule update --init --recursive
+## Features
 
-3. View your new website:
-      
-       hugo server
+[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/academic.png)](https://wowchemy.com)
 
-    Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
-  
-4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it.
+**Key features:**
+
+- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
+- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
+- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
+- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/templates/)
+- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
+- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
+- **Beautiful Site** - Simple and refreshing one page design
+- **Industry-Leading SEO** - Help get your website found on search engines and social media
+- **Media Galleries** - Display your images and videos with captions in a customizable gallery
+- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
+- **Multi-language** - 15+ language packs including English, 中文, and Português
+- **Multi-user** - Each author gets their own profile page
+- **Privacy Pack** - Assists with GDPR
+- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
+- **One-Click Deployment** - No servers. No databases. Only files.
+
+## Themes
+
+Wowchemy comes with **automatic day (light) and night (dark) mode** built-in. Alternatively, click the moon icon in the top right of one of the [Demos](https://wowchemy.com/templates/) to set your preferred mode!
+
+Choose a stunning theme for your site and [customize it](https://wowchemy.com/docs/customization/#custom-theme) to your liking:
+
+[![Themes](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/themes.png)](https://wowchemy.com/templates/)
+
+[Browse more templates and themes...](https://wowchemy.com/templates/)
+
+## The Future of Technical Content Writing
+
+[![Writing technical content](https://wowchemy.com/uploads/readmes/writing-technical-content.gif)](https://academic-demo.netlify.app/post/writing-technical-content/)
+
+## Join the community
+
+Feel free to _star_ the project on [Github](https://github.com/wowchemy/wowchemy-hugo-modules), [join the community](https://discord.gg/z8wNYzb) on Discord, and follow [@wowchemy](https://twitter.com/wowchemy) on Twitter to be the first to hear about new features.
 
 ## License
 
 Copyright 2017 [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md) license.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/wowchemy-hugo-modules/readme?pixel)](https://github.com/igrigorik/ga-beacon)
